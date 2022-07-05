@@ -4,4 +4,4 @@
 
 1. **Đại số tuyến tính :**
 
-* **+ Scalar/Vector**
+  * **Scalar/Vector**
