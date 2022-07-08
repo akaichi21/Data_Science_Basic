@@ -7,3 +7,7 @@
     * **Scalar/Vector**
          * Giới thiệu về Scalar/Vector và các thành phần của chúng : [Scalar/Vector](https://www.notion.so/Scalar-Vector-0bac76ff9d9e4db38f62e30488ad547d)
          * [Thực hành với Python (Numpy)](https://github.com/Khoa-21501/learn-MachineLearning-akaicheese/blob/main/numpy/array.ipynb)
+    
+    * **Ma trận (Matrix)**
+         * Giới thiệu về ma trận : [Matrix]()
+         * [Thực hành với Python (Numpy)]()
