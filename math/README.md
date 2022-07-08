@@ -9,5 +9,5 @@
          * [Thực hành với Python (Numpy)](https://github.com/Khoa-21501/learn-MachineLearning-akaicheese/blob/main/numpy/array.ipynb)
     
     * **Ma trận (Matrix)**
-         * Giới thiệu về ma trận : [Matrix]()
+         * Giới thiệu về ma trận : [Matrix](https://www.notion.so/Matrix-a5f84e1880a54bd2ae0ebf1de744819f)
          * [Thực hành với Python (Numpy)]()
