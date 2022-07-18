@@ -13,4 +13,4 @@
          * [Thực hành với Python (Numpy)](https://github.com/Khoa-21501/learn-MachineLearning-akaicheese/blob/main/numpy/array.ipynb)
     * **Chuyển vị ma trận**
          * Cách chuyển vị ma trận và những vấn đề liên quan : [Transpose of a matrix](https://www.khanacademy.org/math/linear-algebra/matrix-transformations#matrix-transpose)
-         * [Thực hành với Python (Numpy)]()
+         * [Thực hành với Python (Numpy)](https://github.com/Khoa-21501/learn-MachineLearning-akaicheese/blob/main/numpy/manipulation.ipynb)
