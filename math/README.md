@@ -11,3 +11,6 @@
     * **Ma trận (Matrix)**
          * Giới thiệu về ma trận : [Matrix](https://www.notion.so/Matrix-a5f84e1880a54bd2ae0ebf1de744819f)
          * [Thực hành với Python (Numpy)](https://github.com/Khoa-21501/learn-MachineLearning-akaicheese/blob/main/numpy/array.ipynb)
+    * **Chuyển vị ma trận**
+         * Cách chuyển vị ma trận và những vấn đề liên quan : [Transpose of a matrix](https://www.khanacademy.org/math/linear-algebra/matrix-transformations#matrix-transpose)
+         * [Thực hành với Python (Numpy)]()
